@@ -1,3 +1,7 @@
+body{
+  background-color: royalBlue; 
+}
+
 header {
   background-color: #d580ff;
   color: #660099;
@@ -6,6 +10,11 @@ header {
   text-align: center;
   font-family: sans-serif;
   
+}
+
+p {
+  background-color: #eeeeee;
+  color: darkBlue;
 }
 
 nav {
