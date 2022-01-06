@@ -11,3 +11,9 @@ header {
 nav {
   font-weight: bold;
 }
+
+.logo2 {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+  }
