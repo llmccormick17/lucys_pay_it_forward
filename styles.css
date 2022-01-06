@@ -1,5 +1,5 @@
 body{
-  background-color: royalBlue; 
+     background: linear-gradient(to bottom right, royalBlue, cornflowerBlue, #d580ff, lightskyBlue, #d580ff, cornflowerBlue, royalBlue);
 }
 
 header {
@@ -14,6 +14,7 @@ header {
 
 p {
   background-color: #eeeeee;
+  opacity: 90%;
   color: darkBlue;
 }
 
